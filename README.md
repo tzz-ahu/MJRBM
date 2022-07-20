@@ -11,7 +11,6 @@ The pytorch implementation of "ORSI Salient Object Detection via Multiscale Join
 - The pretrained model can be downloaded at https://pan.baidu.com/s/1GdU8YQ5CoUu-2NhFTpc-bA  [k6co]
 
 ## Saliency Maps
-- For ORSI-SOD, we provide our saliency maps on ORSSD, EORSSD and ORSI-4199. 
+- Saliency maps in all datasets：https://pan.baidu.com/s/1aLFte7neKeexL9r49sWL-A   [sqgd]
 
-  https://pan.baidu.com/s/1aLFte7neKeexL9r49sWL-A   [sqgd]
 
